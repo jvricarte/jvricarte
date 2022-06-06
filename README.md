@@ -11,6 +11,12 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvricarte&layout=compact&theme=vision-friendly-dark" alt="jvricarte's most languages"/>
+</p>
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
