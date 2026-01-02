@@ -1,5 +1,4 @@
 # Hi there 👋
-### I'm jvricarte and I'm a fullstack software developer at [Star Solution](https://github.com/star-solution)
 ### You are very welcome here! :heart_eyes:
 
 ## 🛠 &nbsp;Tech Stack
